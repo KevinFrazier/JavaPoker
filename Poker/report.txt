@@ -1,0 +1,15 @@
+Implemented:
+Card class
+Hand class
+Deck class
+Basic UI functionality (can actually play a game)
+
+Partially implemented:
+Determining tie breakers (all implemented except for tied pair hands and high card hands)
+UI - Feedback to let the user know what "turn" it is
+UI - Call, raise, fold buttons need to be wired
+Ui - Some aesthetic changes still planned such as placement of buttons, etc.
+
+Not implemented:
+AI
+Betting functionality
